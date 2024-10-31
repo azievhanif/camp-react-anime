@@ -1,0 +1,30 @@
+/* src/App.css */
+body {
+  background-color: #121212;
+}
+
+h2 {
+  color: #f8f9fa;
+}
+
+.card {
+  border: none;
+}
+
+.card-img-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.card-title {
+  color: #f8f9fa;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #b0bec5;
+}
+
+.btn-secondary {
+  background-color: #1f1f1f;
+  border: none;
+}
